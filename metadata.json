@@ -1,0 +1,7 @@
+{
+  "name": "Smart-RC BPTD DIY",
+  "description": "Sistem Informasi Manajemen Pelaksanaan Rampcheck Terpadu untuk BPTD Kelas II Daerah Istimewa Yogyakarta",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
